@@ -1,0 +1,18 @@
+body {
+  background-color: hotpink;
+  padding: 50px;
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+  font-weight: bolder;
+}
